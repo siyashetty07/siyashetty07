@@ -47,19 +47,21 @@ I enjoy building projects that combine hardware and software to solve real-world
 
 ## Projects
 
+## Document Intelligence Validator
+
+- AI-powered document extraction using Azure OpenAI Vision
+- Automatic document type classification
+- Multi-document support (Passports, Driver Licenses, Student IDs, National IDs, Residence Permits)
+- Structured JSON field extraction
+- Expiry and field validation engine
+- Risk scoring and decision system (Accept / Review / Reject)
+
 ### IoT-Based Smart Healthcare Monitoring System
 
 * ESP32-based healthcare monitoring system
 * Real-time BPM, SpO₂, temperature, and humidity monitoring
 * OLED display integration
 * ThingSpeak cloud dashboard
-
-### AI-Powered Passport Information Extraction System
-
-* OCR-based document processing
-* Automatic information extraction
-* Structured JSON output generation
-* Multi-document support
 
 ### Performance Analysis of an 8-Channel C-Band DWDM System
 
