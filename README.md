@@ -47,7 +47,7 @@ I enjoy building projects that combine hardware and software to solve real-world
 
 ## Projects
 
-## Document Intelligence Validator
+### Document Intelligence Validator
 
 - AI-powered document extraction using Azure OpenAI Vision
 - Automatic document type classification
